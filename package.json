@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-indexeddb-4",
+  "version": "1.0.0",
+  "description": "Cordova IndexedDB plugin v4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aweidner/cordova-plugin-indexeddb-4" 
+  },
+  "keywords": [
+    "cordova",
+    "indexeddb",
+    "indexeddb2",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows8",
+    "cordova-windows",
+    "cordova-browser"
+  ],
+  "author": "Adam Weidner",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aweidner/cordova-plugin-indexeddb-4/issues"
+  },
+  "homepage": "https://github.com/aweidner/cordova-plugin-indexeddb-4/readme"
+}
